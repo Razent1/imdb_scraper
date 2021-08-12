@@ -1,0 +1,1 @@
+bs4 requests networkx matplotlib wordcloud pandas numpy
